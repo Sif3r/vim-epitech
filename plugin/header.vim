@@ -35,6 +35,7 @@ function! s:Take_project_name()
             "take the name of the current folder
             let s:name = expand("%:p:h:t")
         endif
+        redraw
     endif
     return s:name
 endfunction
