@@ -2,4 +2,4 @@
 ## vim-plug
    
 
-     Plug '`aurelienaoustin`/vim-epitech'
+     Plug '`h3zos`/vim-epitech'
